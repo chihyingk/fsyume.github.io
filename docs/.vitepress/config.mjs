@@ -119,6 +119,7 @@ export default defineConfig({
           text: 'Linux',
           items: [
             { text: 'Linux常用技巧', link: '/linux/Linux常用技巧' },
+            { text: 'Linux 开启远程 root 登录', link: '/linux/Linux开启远程root登录' },
             { text: 'Rocky Linux初见', link: '/linux/rocky_linux' }
           ]
         }
